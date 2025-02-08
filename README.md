@@ -1,4 +1,4 @@
-Morpion en C
+# Morpion en C
 Un jeu de Morpion (Tic-Tac-Toe) développé en C, jouable en mode 2 joueurs ou contre l'ordinateur avec une IA basique.
 
 🎮 Fonctionnalités
