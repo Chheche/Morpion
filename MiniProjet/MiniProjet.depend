@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1712645341 source:c:\informatique\codeblock\miniprojet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1712666871 source:c:\informatique\codeblock\miniprojet\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1713361978 source:c:\users\rafae\onedrive\bureau\projet\projetc\miniprojet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1713362189 source:c:\users\rafae\onedrive\bureau\projet\projetc\miniprojet\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
