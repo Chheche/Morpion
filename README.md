@@ -15,3 +15,6 @@ Le morpion est un jeu de stratégie où deux joueurs s'affrontent sur une grille
 Le premier joueur joue avec X, le second (ou l'IA) avec O.
 À tour de rôle, chaque joueur choisit une case vide en entrant sa coordonnée (11 à 33).
 Le jeu annonce la victoire si un joueur aligne 3 symboles ou une égalité si la grille est remplie.
+
+Auteur:
+Rafael BARRETO
